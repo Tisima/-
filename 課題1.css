@@ -71,34 +71,7 @@ footer {
   }
 
  .step-box {
-   width: 100%;
-   margin: 10px ;
- }
-main {
-  flex-wrap: wrap;
-}
-
-.step-num {
-  color: azure;
-  font-size: 25px;
-}
-
-.title {
-  width: 20%;
-  border: 5px solid yellow;
-}
-
-footer {
-  width: 100%;
-}
-
-@media screen and (max-width:768px) {
-  header {
-    width: 100%;
-  }
-
- .step-box {
-   width: 100%;
+   width: 90%;
    margin: 10px ;
  }
 main {
