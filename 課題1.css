@@ -71,12 +71,14 @@ footer {
   }
 
  .step-box {
-   width: 75%;
-   margin: 10px 0px 10px 25px ;
+   width: 90%;
+   margin: 10px ;
  }
 
 main {
   flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
 }
 
 .step-num {
